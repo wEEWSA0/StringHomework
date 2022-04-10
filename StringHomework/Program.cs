@@ -20,7 +20,7 @@ namespace StringHomework
         }
         static bool isFirstSymbolsEquals(string wordOne, string wordTwo)
         {
-            return wordOne[0] == wordTwo[0];
+            return wordOne[0] == wordTwo[wordTwo.Length-1];
         }
         #endregion
         #region Question 63

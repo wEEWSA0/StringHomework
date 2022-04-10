@@ -10,8 +10,7 @@ namespace StringHomework
     {
         static void Main(string[] args)
         {
-            //Question163("sadfdsLQ", "dsadasf", "doasdffsa");
-
+            
             Console.ReadKey();
         }
         #region Question 18
